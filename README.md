@@ -31,3 +31,10 @@ Start the server
 ```bash
   npm start
 ```
+
+or
+
+```bash
+  NODE_OPTIONS=--openssl-legacy-provider npm start
+```
+
