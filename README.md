@@ -10,7 +10,7 @@ Simple slider with react
 Clone the project
 
 ```bash
-  git clone [https://github.com/ethsam/react-simple-slider.git](https://github.com/ethsam/react-simple-slider.git)
+  git clone https://github.com/ethsam/react-simple-slider.git
 ```
 
 Go to the project directory
